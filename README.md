@@ -1,1 +1,1 @@
-# UCSD-historical-schedule
+# GitHub Pages Test
